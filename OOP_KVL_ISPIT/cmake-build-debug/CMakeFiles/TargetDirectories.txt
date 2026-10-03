@@ -1,0 +1,7 @@
+C:/Users/aleks/CLionProjects/OOP_KVL_ISPIT/cmake-build-debug/CMakeFiles/OOP_KVL_ISPIT.dir
+C:/Users/aleks/CLionProjects/OOP_KVL_ISPIT/cmake-build-debug/CMakeFiles/vezba1.dir
+C:/Users/aleks/CLionProjects/OOP_KVL_ISPIT/cmake-build-debug/CMakeFiles/vezba3.dir
+C:/Users/aleks/CLionProjects/OOP_KVL_ISPIT/cmake-build-debug/CMakeFiles/vezba4.dir
+C:/Users/aleks/CLionProjects/OOP_KVL_ISPIT/cmake-build-debug/CMakeFiles/vezba5.dir
+C:/Users/aleks/CLionProjects/OOP_KVL_ISPIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleks/CLionProjects/OOP_KVL_ISPIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

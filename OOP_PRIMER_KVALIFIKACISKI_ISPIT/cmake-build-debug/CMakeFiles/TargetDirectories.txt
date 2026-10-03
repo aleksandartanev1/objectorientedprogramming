@@ -1,0 +1,12 @@
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/OOP_PRIMER_KVALIFIKACISKI_ISPIT.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca1.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca2.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca3.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca4.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca5.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca6.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca7.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca8.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/zadaca9.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

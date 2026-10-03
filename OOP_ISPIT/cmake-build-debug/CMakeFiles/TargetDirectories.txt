@@ -1,0 +1,17 @@
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/OOP_ISPIT.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca1.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca2.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca3.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca4.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca5.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca6.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca7.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca17.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca16.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca15.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/random1.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca11.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca10.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/zadaca9.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

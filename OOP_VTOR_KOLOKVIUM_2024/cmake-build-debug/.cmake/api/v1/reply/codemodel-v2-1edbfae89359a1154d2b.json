@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OOP_VTOR_KOLOKVIUM_2024",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OOP_VTOR_KOLOKVIUM_2024::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOP_VTOR_KOLOKVIUM_2024-Debug-aceb9465d9aff91b7f2e.json",
+					"name" : "OOP_VTOR_KOLOKVIUM_2024",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca1-Debug-58ffc9b393e7363673f2.json",
+					"name" : "zadaca1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aleks/CLionProjects/OOP_VTOR_KOLOKVIUM_2024/cmake-build-debug",
+		"source" : "C:/Users/aleks/CLionProjects/OOP_VTOR_KOLOKVIUM_2024"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

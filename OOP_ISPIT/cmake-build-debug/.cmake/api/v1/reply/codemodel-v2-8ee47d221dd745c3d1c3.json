@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OOP_ISPIT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OOP_ISPIT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOP_ISPIT-Debug-6ae4714391bdca644935.json",
+					"name" : "OOP_ISPIT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random1-Debug-0511f4acd11c0abd2b05.json",
+					"name" : "random1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca1-Debug-31cfd8b92c1f5b4c86b1.json",
+					"name" : "zadaca1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca10-Debug-3024f3ba54f67ed7d318.json",
+					"name" : "zadaca10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca11-Debug-acda383f7948c3ee8134.json",
+					"name" : "zadaca11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca15-Debug-870746960df2bec257ff.json",
+					"name" : "zadaca15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca16-Debug-ab2189d7f244c5f8ceb8.json",
+					"name" : "zadaca16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca17-Debug-7b16f958f18a7c29fc96.json",
+					"name" : "zadaca17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca2-Debug-17bbdce92348c9e81713.json",
+					"name" : "zadaca2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca3-Debug-cf8dbff695de206cc0ad.json",
+					"name" : "zadaca3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca4-Debug-5c32311e4d31c7ebe47d.json",
+					"name" : "zadaca4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca5-Debug-4b5df8c371fdaf25dce3.json",
+					"name" : "zadaca5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca6-Debug-b1ca05b4c1f4ecca71a8.json",
+					"name" : "zadaca6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca7-Debug-8d1dcb48a316201f83ed.json",
+					"name" : "zadaca7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca9-Debug-64c01b397c762fd4c5ac.json",
+					"name" : "zadaca9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aleks/CLionProjects/OOP_ISPIT/cmake-build-debug",
+		"source" : "C:/Users/aleks/CLionProjects/OOP_ISPIT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

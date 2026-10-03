@@ -1,0 +1,3 @@
+Sopstvenik: Ana Type: business- - - Saldo: 1000$
+Sopstvenik: Ivan Type: personal- - - Saldo: 500$
+Sopstvenik: Mark Type: personal- - - Saldo: 1500$

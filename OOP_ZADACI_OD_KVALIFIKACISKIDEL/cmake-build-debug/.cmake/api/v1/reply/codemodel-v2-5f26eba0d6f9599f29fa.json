@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OOP_ZADACI_OD_KVALIFIKACISKIDEL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OOP_ZADACI_OD_KVALIFIKACISKIDEL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOP_ZADACI_OD_KVALIFIKACISKIDEL-Debug-2b661cd48ce261ea2201.json",
+					"name" : "OOP_ZADACI_OD_KVALIFIKACISKIDEL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca1-Debug-58ffc9b393e7363673f2.json",
+					"name" : "zadaca1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca2-Debug-e3219ce6b74ec1d124af.json",
+					"name" : "zadaca2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca3-Debug-33d27bd8526fbaf56e13.json",
+					"name" : "zadaca3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aleks/CLionProjects/OOP_ZADACI_OD_KVALIFIKACISKIDEL/cmake-build-debug",
+		"source" : "C:/Users/aleks/CLionProjects/OOP_ZADACI_OD_KVALIFIKACISKIDEL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

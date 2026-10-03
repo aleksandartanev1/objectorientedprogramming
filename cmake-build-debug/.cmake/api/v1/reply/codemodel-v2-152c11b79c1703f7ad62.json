@@ -1,0 +1,204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OOP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OOP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOP-Debug-dcba57f206a8b9296dc1.json",
+					"name" : "OOP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba1-Debug-cf3e1476d65e56c6174e.json",
+					"name" : "vezba1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba10-Debug-34e304abba751ae50d47.json",
+					"name" : "vezba10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba11-Debug-c3326db7d7665d708dd3.json",
+					"name" : "vezba11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba12-Debug-f4140799c6b34fe52552.json",
+					"name" : "vezba12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba13-Debug-b7cc72db211e883668b6.json",
+					"name" : "vezba13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba14-Debug-7dfea912717eaec13dcf.json",
+					"name" : "vezba14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba2-Debug-2e31d2a5260d5af7c2ed.json",
+					"name" : "vezba2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba3-Debug-60a13200b51042d7eceb.json",
+					"name" : "vezba3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba4-Debug-67e8a24c8f3baa281049.json",
+					"name" : "vezba4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba5-Debug-664aaf621931e73769a5.json",
+					"name" : "vezba5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba6-Debug-8a03e291cc7459384049.json",
+					"name" : "vezba6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba7-Debug-f10562cfef58e1dd20f6.json",
+					"name" : "vezba7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba8-Debug-82d9760947ea980de9f5.json",
+					"name" : "vezba8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba9-Debug-c7655e0d76cd3899790e.json",
+					"name" : "vezba9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba99::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba99-Debug-c290de74ccfc7446ead7.json",
+					"name" : "vezba99",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xxx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xxx-Debug-cf1c8e2594f5a48808c1.json",
+					"name" : "xxx",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aleks/CLionProjects/OOP/cmake-build-debug",
+		"source" : "C:/Users/aleks/CLionProjects/OOP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.29)
+project(OOP_PRIMER_KVALIFIKACISKI_ISPIT)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(OOP_PRIMER_KVALIFIKACISKI_ISPIT main.cpp)
+add_executable(zadaca1 zadaca1.cpp)
+add_executable(zadaca2 zadaca2.cpp)
+add_executable(zadaca3 zadaca3.cpp)
+add_executable(zadaca4 zadaca4.cpp)
+add_executable(zadaca5 zadaca5.cpp)
+add_executable(zadaca6 zadaca6.cpp)
+add_executable(zadaca7 zadaca7.cpp)
+add_executable(zadaca8 zadaca8.cpp)
+add_executable(zadaca9 zadaca9.cpp)

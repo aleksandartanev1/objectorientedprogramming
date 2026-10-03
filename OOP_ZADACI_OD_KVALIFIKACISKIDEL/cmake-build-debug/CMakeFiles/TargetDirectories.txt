@@ -1,0 +1,6 @@
+C:/Users/aleks/CLionProjects/OOP_ZADACI_OD_KVALIFIKACISKIDEL/cmake-build-debug/CMakeFiles/OOP_ZADACI_OD_KVALIFIKACISKIDEL.dir
+C:/Users/aleks/CLionProjects/OOP_ZADACI_OD_KVALIFIKACISKIDEL/cmake-build-debug/CMakeFiles/zadaca1.dir
+C:/Users/aleks/CLionProjects/OOP_ZADACI_OD_KVALIFIKACISKIDEL/cmake-build-debug/CMakeFiles/zadaca2.dir
+C:/Users/aleks/CLionProjects/OOP_ZADACI_OD_KVALIFIKACISKIDEL/cmake-build-debug/CMakeFiles/zadaca3.dir
+C:/Users/aleks/CLionProjects/OOP_ZADACI_OD_KVALIFIKACISKIDEL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleks/CLionProjects/OOP_ZADACI_OD_KVALIFIKACISKIDEL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

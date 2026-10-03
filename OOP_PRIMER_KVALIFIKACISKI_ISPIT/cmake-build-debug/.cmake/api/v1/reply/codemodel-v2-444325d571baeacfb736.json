@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OOP_PRIMER_KVALIFIKACISKI_ISPIT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OOP_PRIMER_KVALIFIKACISKI_ISPIT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOP_PRIMER_KVALIFIKACISKI_ISPIT-Debug-d33cb77375e6faa458ba.json",
+					"name" : "OOP_PRIMER_KVALIFIKACISKI_ISPIT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca1-Debug-58ffc9b393e7363673f2.json",
+					"name" : "zadaca1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca2-Debug-e3219ce6b74ec1d124af.json",
+					"name" : "zadaca2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca3-Debug-33d27bd8526fbaf56e13.json",
+					"name" : "zadaca3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca4-Debug-645a58178142e85bbd15.json",
+					"name" : "zadaca4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca5-Debug-71b70de4989fb1197535.json",
+					"name" : "zadaca5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca6-Debug-076dbc13795cec777ac0.json",
+					"name" : "zadaca6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca7-Debug-ebe205fe585643282a25.json",
+					"name" : "zadaca7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca8-Debug-fda0c951c41c168db093.json",
+					"name" : "zadaca8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca9-Debug-3956035ab7e0d9231a20.json",
+					"name" : "zadaca9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT/cmake-build-debug",
+		"source" : "C:/Users/aleks/CLionProjects/OOP_PRIMER_KVALIFIKACISKI_ISPIT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

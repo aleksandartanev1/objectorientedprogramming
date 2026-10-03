@@ -1,0 +1,11 @@
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/OOP_ISPIT_2024.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/zadaca1.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/zadaca2.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/disc1.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/disc2.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/zadaca3.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/zadaca4.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/zadaca5.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/zadaca6.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleks/CLionProjects/OOP_ISPIT_2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir

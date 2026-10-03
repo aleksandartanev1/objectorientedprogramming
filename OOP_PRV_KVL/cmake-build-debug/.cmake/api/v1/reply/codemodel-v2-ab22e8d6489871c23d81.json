@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OOP_PRV_KVL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OOP_PRV_KVL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOP_PRV_KVL-Debug-34b85e95d18a97e16ebc.json",
+					"name" : "OOP_PRV_KVL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba1-Debug-cf3e1476d65e56c6174e.json",
+					"name" : "vezba1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba2-Debug-2e31d2a5260d5af7c2ed.json",
+					"name" : "vezba2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba3-Debug-60a13200b51042d7eceb.json",
+					"name" : "vezba3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba4-Debug-67e8a24c8f3baa281049.json",
+					"name" : "vezba4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba5-Debug-664aaf621931e73769a5.json",
+					"name" : "vezba5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vezba6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vezba6-Debug-8a03e291cc7459384049.json",
+					"name" : "vezba6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aleks/CLionProjects/OOP_PRV_KVL/cmake-build-debug",
+		"source" : "C:/Users/aleks/CLionProjects/OOP_PRV_KVL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
